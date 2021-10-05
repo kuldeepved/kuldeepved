@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kuldeepved
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning REST API and Python
+- 💞️ I’m looking to collaborate on your ML projects
+- 📫 How to reach me kuldeepved98@gmail.com
