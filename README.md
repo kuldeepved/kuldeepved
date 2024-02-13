@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuldeepved
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning REST API, FastAPI and Python
+- 🌱 I’m currently working on Flask, REST API, FastAPI, Django and Python
 - 💞️ I’m looking to collaborate on some ML projects
 - 📫 How out to reach me kuldeepved98@gmail.com
